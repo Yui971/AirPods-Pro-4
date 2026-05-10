@@ -1,0 +1,14 @@
+node_modules/
+package.json
+package-lock.json
+removebg.js
+assets.zip
+
+# Fichiers bruts à la racine (inutiles, les assets utilisés sont dans assets/)
+/*.jpg
+/*.jpeg
+/44ed2cf7-*.png
+/airpod.png
+/anc-airpods-nobg.png
+/sound-airpods-nobg.png
+/sound-airpods.jpg
